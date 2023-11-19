@@ -8,19 +8,19 @@ Juypiter Notebook, Python3,(I ran Juypiter Notebook in VSCode)
 
 # Installation: 
 
-1. Clone the Repository
+# 1. Clone the Repository
 
 First, clone the repository to your local machine:
 
 git clone https://github.com/blankshawn/PhilliesBaseball-R-D-Questionnaire.git
 
-2. Navigate to the Project Directory
+# 2. Navigate to the Project Directory
 
 After cloning, move into the project directory:
 
 cd PhilliesBaseball-R-D-Questionnaire
 
-3. Set Up a Virtual Environment (Optional but Recommended, you may skip this step)
+# 3. Set Up a Virtual Environment (Optional but Recommended, you may skip this step)
 
 Create a virtual environment to manage your project's dependencies:
 
@@ -44,4 +44,4 @@ After installing the dependencies, launch Jupyter Notebook to access the project
 
 jupyter notebook
 
-# Navigate to the .ipynb file within the Jupyter Notebook interface to view and run the code.
+Navigate to the .ipynb file within the Jupyter Notebook interface to view and run the code.
