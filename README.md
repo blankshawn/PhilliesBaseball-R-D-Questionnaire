@@ -1,12 +1,12 @@
 # PhilliesBaseball-R-D-Questionnaire
 questionnaire, question #2 - Reads in baseball players salaries from 2016 and finds the average of the top 125 highest salaries in order to make a quailifying offer to a departing free agent. 
 
-Prerequisites:
+# Prerequisites:
 
 Juypiter Notebook, Python3,(I ran Juypiter Notebook in VSCode)
 
 
-Installation: 
+# Installation: 
 
 1. Clone the Repository
 
@@ -32,7 +32,7 @@ source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
 conda create --name myenv python=3.8
 conda activate myenv
 
-4. Install Dependencies
+# 4. Install Dependencies
 
 Install the required dependencies using pip:
 
