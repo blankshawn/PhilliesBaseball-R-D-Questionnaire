@@ -48,7 +48,7 @@ Install the required dependencies using pip:
 
 # Running the Project
 
-Run .py file:
+Execute .py file:
 
 * python3 phillies_data_set.py 
 
