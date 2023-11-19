@@ -42,7 +42,7 @@ Create a virtual environment to manage your project's dependencies:
 
 # 4. Install Dependencies
 
-* Install the required dependencies using pip:
+Install the required dependencies using pip:
 
 * pip install -r requirements.txt
 
