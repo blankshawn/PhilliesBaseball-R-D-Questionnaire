@@ -50,7 +50,7 @@ Install the required dependencies using pip:
 
 Run .py file:
 
-* python3 phillies_data_set.py (or whichever version of python you may have)
+* python3 phillies_data_set.py 
 
 
 After installing the dependencies, launch Jupyter Notebook to access the project:
