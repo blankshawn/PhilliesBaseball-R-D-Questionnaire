@@ -37,7 +37,7 @@ Create a virtual environment to manage your project's dependencies:
 * source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
 
 # For conda
-* conda create --name myenv python=3.8
+* conda create --name myenv python=3.12
 * conda activate myenv
 
 # 4. Install Dependencies
