@@ -25,7 +25,7 @@ salary_data_df = salary_data[0]
 
 
 #outputting read data 
-display(salary_data_df)
+print(salary_data_df)
 
 
 # In[4]:
@@ -54,14 +54,14 @@ salary_data_df['Salary'].fillna(median_salary, inplace=True)
 
 #null_count = salary_data_df.isnull().sum()
 #print(null_count)
-display(salary_data_df)
+print(salary_data_df)
 most_recent_year = salary_data_df['Year'].max()
 
 
 # In[7]:
 
 
-display(salary_data_df.nlargest(125, 'Salary')['Salary'])
+print(salary_data_df.nlargest(125, 'Salary')['Salary'])
 top_125_salaries = salary_data_df.nlargest(125, 'Salary')['Salary']
 # Calculate the average (mean) manually
 contract_offer = top_125_salaries.sum() / len(top_125_salaries)
@@ -76,7 +76,7 @@ print(f"Qualifying Offer: {most_recent_year}: ${contract_offer:,.2f}")
 # In[9]:
 
 
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[10]:
