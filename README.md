@@ -20,7 +20,7 @@ After cloning, move into the project directory:
 
 cd PhilliesBaseball-R-D-Questionnaire
 
-3. Set Up a Virtual Environment (Optional but Recommended)
+3. Set Up a Virtual Environment (Optional but Recommended, you may skip this step)
 
 Create a virtual environment to manage your project's dependencies:
 
